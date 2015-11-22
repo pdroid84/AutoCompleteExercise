@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AutoCompleteExercise</string>
+    <string name="static_auto_complete">Static Auto Complete</string>
+    <string name="runtime_auto_complete">Run Time Auto Complete</string>
+    <string name="runtime_hit">Runtime Auto Complete</string>
+    <string name="edit_text_hint">Enter Item to add to Runtime list</string>
+    <string name="add_item_msg">Add Item To Runtime List</string>
+    <string name="show_data">Show Selected Item</string>
+    <string-array name="city_array">
+        <item>Amrsterd</item>
+        <item>Amritsar</item>
+        <item>Ambala</item>
+        <item>Bangalore</item>
+        <item>Bali</item>
+        <item>Bombay</item>
+        <item>Calcutta</item>
+        <item>California</item>
+        <item>Chicago</item>
+        <item>Delhi</item>
+        <item>Denbar</item>
+    </string-array>
+</resources>
